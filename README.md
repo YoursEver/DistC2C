@@ -5,7 +5,7 @@
 
 This function calculates the contour-to-contour distance by using Euclidean distance transform.
 
-[MeanDist, StdevDist, MaxDist]= DistC2C( GTfilename, Inputfilename)
+**[MeanDist, StdevDist, MaxDist]= DistC2C( GTfilename, Inputfilename)**
 
 == Input argument ==
 
