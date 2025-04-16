@@ -10,7 +10,7 @@ This function calculates the contour-to-contour distance by using Euclidean dist
 == Input argument ==
 
 **GTfilename**: filename of ground-truth <br>
-**Inputfilename**: filename of the to-be-compare image
+**Inputfilename**: filename of the to-be-compared image
 
 == Outputs ==
 
